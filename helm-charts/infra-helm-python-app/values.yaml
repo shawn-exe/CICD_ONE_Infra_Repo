@@ -89,8 +89,8 @@ httpRoute:
     # sectionName: http
     # namespace: default
   # Hostnames matching HTTP header.
-  hostnames:
-  - "my-cicd-one.com"
+  # hostnames:
+  # - "my-cicd-one.com"
   # List of rules and filters applied.
   rules:
   - matches:
